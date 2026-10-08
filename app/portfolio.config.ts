@@ -1,10 +1,10 @@
 export const portfolio = {
   name: 'Grivindo',
   profession: 'Prompt Engineering',
-  description: 'Fullstack Developer yang membangun pengalaman digital dari frontend hingga backend. Bekerja dengan pendekatan terstruktur dan berorientasi pada solusi untuk menciptakan aplikasi web yang cepat, responsif, mudah digunakan, serta siap dikembangkan lebih lanjut.',
+  description: 'Fullstack Developer · AI Product Builder · AIRA App',
   email: 'grivindorosyanazzuhri@gmail.com',
-  github: 'https://env321.github.io',
-  githubLabel: 'env321.github.io',
+  github: 'https://github.com/EnV321',
+  githubLabel: 'github.com/EnV321',
   skills: ['Frontend Development', 'Backend Development', 'Database Management', 'Deployment & Version Control'],
   projects: [
     {id:'01', title:'Clarity', category:'Dashboard aplikasi', description:'Konsep dashboard yang menyatukan metrik dan aktivitas dalam satu tampilan yang mudah dibaca.', type:'dashboard', tags:['React','TypeScript','Tailwind CSS'], features:['Ringkasan metrik dengan hierarki yang jelas','Visualisasi tren dan aktivitas','Tampilan responsif untuk pemantauan data'], demoUrl:'', repositoryUrl:''},
