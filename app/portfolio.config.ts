@@ -1,6 +1,6 @@
 export const portfolio = {
   name: 'Grivindo',
-  profession: 'Prompt Engineering',
+  profession: 'Full Stack Developer',
   description: 'Fullstack Developer · AI Product Builder · AIRA App',
   email: 'grivindorosyanazzuhri@gmail.com',
   github: 'https://github.com/EnV321',
